@@ -47,6 +47,6 @@ def comparar(datos):
     return {"xIntercepto": xIntercepto, "yIntercepto": yIntercepto}
 
 
-datos = pedir_funcion()
-resultado = comparar(datos)
-print(resultado)
+# datos = pedir_funcion()
+# resultado = comparar(datos)
+# print(resultado)
