@@ -38,3 +38,5 @@ def graficar_rectas(datos, resultado):
 
     # Mostrar ventana con la gráfica
     plt.show()
+    # plt.savefig("interseccion.png", dpi=300, bbox_inches="tight")
+    # print("Gráfica guardada exitosamente como 'interseccion.png'")
