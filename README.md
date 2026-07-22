@@ -63,8 +63,13 @@ Instala todas las librerías necesarias (como `matplotlib`) a partir del archivo
 ```bash
 pip install -r requirements.txt
 ```
+### 5. Instalar tKinter
+ejecuta el siguiente comando:
+```bash
+sudo apt update && sudo apt install -y python3-tk
+```
 
-### 5. Ejecutar la aplicación
+### 6. Ejecutar la aplicación
 Ejecuta el script principal:
 ```bash
 python main.py
